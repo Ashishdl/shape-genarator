@@ -1,1 +1,1 @@
-# shape-genarator
+# shape_generator
